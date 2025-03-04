@@ -592,7 +592,7 @@ export class LeadershipDevelopmentAgent extends BaseAgent {
       trustLevel: {
         competence: {
           rating: 'High',
-          observations: ['Strong confidence in team members' capabilities']
+          observations: ['Strong confidence in team members capabilities']
         },
         character: {
           rating: 'Moderate',

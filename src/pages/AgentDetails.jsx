@@ -119,7 +119,7 @@ function AgentDetails() {
         'Growth Strategy Development',
         'Strategic Plan Creation with Implementation Roadmap',
         'Strategic Option Evaluation and Prioritization',
-        'Porters Five Forces Analysis',
+        'Porter's Five Forces Analysis',
         'Ansoff Matrix Application for Growth Strategies',
         'PESTEL Analysis for External Environment Assessment'
       ],
