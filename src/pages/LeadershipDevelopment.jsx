@@ -65,7 +65,7 @@ function LeadershipDevelopment() {
       label: 'Development Goals',
       type: 'textarea',
       required: true,
-      placeholder: 'Outline your leadership development goals and areas where youd like to improve...',
+      placeholder: 'Outline your leadership development goals and areas where you'd like to improve...',
       min: 30
     },
     {
